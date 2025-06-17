@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_13"
+#EXTINF:-1 xui-id="101" tvg-id="São.Paulo/SP..Globo.br" tvg-name="EPTV CAMPINAS FHD" tvg-logo="https://i.postimg.cc/nhWqNzFM/transferir.jpg" group-title="GLOBO",EPTV CAMPINAS FHD
+http://bitbig.click:80/play/HrRXYWSFySnd3yzYETqjbLBYBkJAZptfFK07uF3GmOU/ts
+#EXTINF:-1 xui-id="102" tvg-id="São.Paulo/SP..Globo.br" tvg-name="EPTV CAMPINAS SD" tvg-logo="https://i.postimg.cc/nhWqNzFM/transferir.jpg" group-title="GLOBO",EPTV CAMPINAS SD
+http://bitbig.click:80/play/HrRXYWSFySnd3yzYETqjbKhceROU6ppXLhCLXh_gN0Y/ts
+#EXTINF:-1 xui-id="103" tvg-id="São.Paulo/SP..Globo.br" tvg-name="EPTV SUL DE MINAS FHD" tvg-logo="https://i.postimg.cc/nhWqNzFM/transferir.jpg" group-title="GLOBO",EPTV SUL DE MINAS FHD
+http://bitbig.click:80/play/HrRXYWSFySnd3yzYETqjbHNdm6gj1hRGF-FPCOQMUfw/ts
